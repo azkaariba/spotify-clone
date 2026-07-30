@@ -179,7 +179,7 @@ a{
     color: white;
 }
 .sticky-nav{
-    position: sticky;
+    position:static;
     top: 0;
     background-color: #121212;
     display: flex;
